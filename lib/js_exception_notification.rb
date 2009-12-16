@@ -1,0 +1,2 @@
+# JsExceptionNotification
+require 'js_exception_notification/error_message'

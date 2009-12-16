@@ -1,0 +1,3 @@
+default: features -t ~wip -f progress
+wip: features -t wip -f progress
+all: features -f progress
